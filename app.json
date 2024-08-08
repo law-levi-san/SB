@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ShonaBaby",
+    "slug": "ShonaBaby",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "maithry.shonababy"
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "e254d5eb-f7e9-40f7-b124-b169dcd49a6d"
+      }
+    }
+  }
+}
